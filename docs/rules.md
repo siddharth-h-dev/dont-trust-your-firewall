@@ -9,4 +9,5 @@ There are many things to follow, condensed into three basic rules.
 ## 3. The Network must be Prepared to resist attacks from a compromised firewall.
 - **The *local network master* must be able to defend against a compromised firewall.**
 - **Employ prevention measures** (such as denying packets from the firewall itself by default, having some default-deny rules for stuff like SSH, etc.).
+# END
 To know how to implement DTyF in your own network, see "How to Implement".
