@@ -29,4 +29,4 @@ In both configurations, **The firewall is still trusted too much**. It's not abo
 - What I'm trying to say here is you should **Protect your network in a situation where the firewall is compromised**.
 - It's an odd task isn't it? *Protection against your own infrastructure* sounds weird right?
 - But **This is how you can survive a network breach**. If you follow DTyF, your network will be safe in this situation.
-- Read the rules of DTyF if you want to know how to do so.
+- Read [The Rules of DTyF](rules.md) if you want to know how to do so.
