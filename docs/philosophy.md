@@ -17,7 +17,7 @@ Most people only try to secure their firewall as much as possible, but *never pr
 
 There are two ways you can deploy your firewall:-
 1. **As the master of your network** - Most small networks have their firewall do edge routing *and* local traffic routing. If such a firewall is compromised, you full network is too.
-2. **As an edge-gateway** - The firewall only does edge routing whole local network routing is handed off further down the network stack (for example, to a Layer-3 Managed Switch). Most of the time the L3 switch is not prepared to handle a firewall compromise so it still does not change the above scenario.
+2. **As an edge-gateway** - The firewall only does edge routing while local network routing is handed off further down the network stack (for example, to a Layer-3 Managed Switch). Most of the time the L3 switch is not prepared to handle a firewall compromise so it still does not change the above scenario.
 
 In both configurations, **The firewall is still trusted too much**. It's not about *only* switching to the 2nd method of deploying a firewall, it's about **not trusting your firewall entirely**.
 
