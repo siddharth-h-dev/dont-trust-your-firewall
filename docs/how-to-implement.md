@@ -23,7 +23,7 @@ There are two ways you can manage your local network:-
 1. **Using a Layer-3 Managed Switch**: This is the most conventional way. Unlike Layer-2 Managed switches, Layer-3 Switches can do Inter-VLAN Routing, DHCP, etc. If you don't have one, you can do the other way.
 2. **Using another router (Physical or virtualized)**: This is unconventional, but is better for people who don't have L3 switch or their network infrastructure is virtualized. You can use a router by disabling the WAN features (By plugging the firewall link into its LAN cable, for example). If you are virtualizing, use a lightweight routing OS (Like OpenWRT) and configure it as such.
 
-The first way is recommended since L3 switches have specialized hardware whose benefits software cant replicate, but not everyone has L3 switch, so the 2nd way makes DTyF *more accessible*.
+The first way is recommended since L3 switches have specialized hardware whose benefits software can't replicate, but not everyone has L3 switch, so the 2nd way makes DTyF *more accessible*.
 
 ## Isolating your firewall from the rest of your network:-
 To achieve this, you can take the below measures:-
