@@ -29,11 +29,12 @@ The first way is recommended since L3 switches have specialized hardware whose b
 To achieve this, you can take the below measures:-
 - **Use VLANs** - VLANs keep devices on separate subnets.
 - **Restrict Traffic** - Configure the L3 switch such that the firewall itself can't talk to any devices on your network.
+- etc.
 
 ## Being prepared for a firewall compromise:-
 You can apply the following preventive measures:-
 - **L3 switch also does some firewalling** - Your L3 switch will also be a firewall. 2 layers of defense!
 - ***Kill Switch*** - This is just my idea. If you suspect your firewall is compromised, *sever the connection between firewall and L3 switch*.
-There are other measures you can implement which I have not mentioned.
+- etc.
 
 
