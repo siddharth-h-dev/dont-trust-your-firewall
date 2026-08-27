@@ -1,4 +1,4 @@
-# Rules of DTyF
+# <img src="../assets/DTyF Logo.png" width="64" height="64" align="center"> Rules of DTyF
 There are many things to follow, condensed into three basic rules.
 ## 1. The Firewall must only handle Edge-Routing.
 - **Your internet-facing firewall SHOULD NOT manage your local network**. Hand that duty down further down the network stack (such as an L3-Managed switch or another router OS in a VM).
