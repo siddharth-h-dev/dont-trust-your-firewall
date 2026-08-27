@@ -1,4 +1,4 @@
-# The Philosophy behind DTyF
+# <img src="../assets/DTyF Logo.png" width="64" height="64" align="center"> The Philosophy behind DTyF
 
 DTyF is basically a specific application of the broader **Zero Trust** philosophy. The aim is **ZERO TRUST in your firewall**.
 
