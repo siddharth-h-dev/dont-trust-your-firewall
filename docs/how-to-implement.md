@@ -15,8 +15,8 @@ This includes:-
 
 and DOES NOT INCLUDE:-
 - Inter-VLAN Routing.
-- Local DNS (DNS to your media server, for example)
-- DHCP for your network
+- Local DNS (DNS to your media server, for example).
+- DHCP for your network.
 - etc.
 
 There are two ways you can manage your local network:-
