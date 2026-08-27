@@ -1,4 +1,4 @@
-# How to implement DTyF
+# <img src="../assets/DTyF Logo.png" width="64" height="64" align="center"> How to implement DTyF
 Made the decision to Implement DTyF? GREAT! Don't know what to do exactly? YOU ARE AT THE RIGHT PLACE!
 
 ## Separating the firewall from local network management:-
