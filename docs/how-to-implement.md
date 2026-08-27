@@ -1,5 +1,5 @@
 # <img src="../assets/DTyF Logo.png" width="64" height="64" align="center"> How to implement DTyF
-Made the decision to Implement DTyF? GREAT! Don't know what to do exactly? YOU ARE AT THE RIGHT PLACE!
+Made the decision to Implement DTyF? **GREAT!** Don't know *what* to do exactly? **YOU ARE AT THE RIGHT PLACE!**
 
 ## Separating the firewall from local network management:-
 If you don't want to trust your firewall, **you should not let it have control of your entire network**.
@@ -34,5 +34,6 @@ To achieve this, you can take the below measures:-
 You can apply the following preventive measures:-
 - **L3 switch also does some firewalling** - Your L3 switch will also be a firewall. 2 layers of defense!
 - ***Kill Switch*** - This is just my idea. If you suspect your firewall is compromised, *sever the connection between firewall and L3 switch*.
+There are other measures you can implement which I have not mentioned.
 
 
