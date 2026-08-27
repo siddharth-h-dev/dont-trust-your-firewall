@@ -2,6 +2,7 @@
 
 <img width="1640" height="664" alt="DTyF Cover" src="https://github.com/user-attachments/assets/2156a1e1-4d79-46cb-86d8-1d8df1d45465" />
 DTyF is a networking principle that aims to:-
+
 - Emphasise that your firewall WILL BE BREACHED!
 - Separate your firewall from the rest of your network.
 - Protect your network if your firewall is compromised.
